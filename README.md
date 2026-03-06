@@ -1,4 +1,4 @@
-# Omni Systems Enterprise
+# Omni Systems
 
 **Unified Business Infrastructure & Systems** 
 
